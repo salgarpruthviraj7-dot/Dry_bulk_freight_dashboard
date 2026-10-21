@@ -2,7 +2,7 @@
 
 An interactive dashboard to analyse the **Baltic Dry Index (BDI)** and freight trends of different dry bulk vessel classes (Capesize, Panamax, Supramax).
 
-🔗 **Live app:** https://YOUR-APP-LINK.streamlit.app
+🔗 **Live app:https://drybulkfreightdashboard-nskten9yndcxj4no3tvddw.streamlit.app/
 
 ---
 
